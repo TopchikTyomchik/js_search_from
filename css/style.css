@@ -73,6 +73,12 @@ body {
   background-color: #1dbecd;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
+.d1 > span {
+  align-self: center;
+}
+.none {
+  display: none;
+}
 .d1 {
 	background: #A3D0C3;
 	display: flex;
