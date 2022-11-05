@@ -75,6 +75,7 @@ body {
 }
 .d1 > span {
   align-self: center;
+  font-weight: bold;
 }
 .none {
   display: none;
