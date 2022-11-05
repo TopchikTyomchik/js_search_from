@@ -134,3 +134,19 @@ img {
 	flex: 0 1 250px;
   color: #544b35;
 }
+
+@media  (max-width:576px){
+  .form__active {
+    flex-wrap: wrap;
+  }
+  .text__length {
+    flex: 0 1 100%;
+    margin-left: 0;
+  }
+  .d1 input {
+    flex: 0 1 70%;
+  }
+  .d1 button {
+    flex: 0 1 30%;
+  }
+}
